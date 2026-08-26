@@ -1,41 +1,308 @@
-<h1 align="center">Hi 👋, I'm Ambati Venkata Narayana Reddy</h1>
-<h3 align="center">A passionate Data Science & AI/ML Enthusiast from India</h3>
+# 🚀 GitHub Profile README — Narayana Reddy Ambati
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narayanaambati&label=Profile%20views&color=0e75b6&style=flat" alt="narayanaambati" /> </p>
+````markdown
+<!-- ========================================================= -->
+<!--              NARAYANA REDDY AMBATI PROFILE               -->
+<!-- ========================================================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narayanaambati" alt="narayanaambati" /></a> </p>
+<div align="center">
 
-- 🔭 I’m currently working on **Machine Learning Model for Predictive Analytics**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Narayana+Reddy+Ambati;Data+Science+%7C+AI+%26+Machine+Learning;Turning+Data+into+Insights;Building+Intelligent+AI+Solutions+🚀" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Python, Machine Learning, Deep Learning, NLP, TensorFlow, PyTorch, MLOps**
+<br/>
 
-- 👯 I’m looking to collaborate on **Open Source AI/ML Projects & Research**
+### 🚀 Data Science & AI/ML Enthusiast | Aspiring AI/ML Engineer
 
-- 🤝 I’m looking for help with **AI Resume Analyzer Research**
-
-- 👨‍💻 All of my projects are available at [https://github.com/narayanaambati](https://github.com/narayanaambati)
-
-- 📝 I regularly write articles on [https://medium.com/@narayanaambati01](https://medium.com/@narayanaambati01)
-
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, NLP, TensorFlow, PyTorch, MLOps**
-
-- 📫 How to reach me **narayanaambati01@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1X_Nw4iZSvOk2enmQtYBlLYpVBFmsqOoI/view?usp=sharing](https://drive.google.com/file/d/1X_Nw4iZSvOk2enmQtYBlLYpVBFmsqOoI/view?usp=sharing)
-
-- ⚡ Fun fact **I can spend hours training a model just to improve accuracy by 0.01%**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ambatinarayana6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ambatinarayana6" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ambati-venkata-narayana-reddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ambati-venkata-narayana-reddy/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/narayanareddy766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/narayanareddy766" height="30" width="40" /></a>
-<a href="https://instagram.com/the_nani.021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_nani.021" height="30" width="40" /></a>
-<a href="https://medium.com/@narayanaambati01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@narayanaambati01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/narayanaambati01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/narayanaambati01" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=00C6FF&style=flat-square" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayanaambati&show_icons=true&locale=en&layout=compact" alt="narayanaambati" /></p>
+---
+
+## 👨‍💻 About Me
+
+```python
+class NarayanaReddyAmbati:
+
+    def __init__(self):
+        self.name = "Narayana Reddy Ambati"
+        self.roles = [
+            "Data Science Enthusiast",
+            "AI/ML Enthusiast",
+            "Aspiring AI/ML Engineer"
+        ]
+
+        self.skills = [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Deep Learning",
+            "Data Analysis",
+            "Data Visualization",
+            "Artificial Intelligence",
+            "MLOps",
+            "AWS Cloud"
+        ]
+
+        self.current_focus = [
+            "Advanced Machine Learning",
+            "Deep Learning",
+            "PyTorch",
+            "MLOps",
+            "Cloud AI"
+        ]
+
+    def mission(self):
+        return "Transform data into insights and build intelligent AI solutions 🚀"
+````
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
+
+### 📊 Data Science & Visualization
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+
+</p>
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-5C2D91?style=for-the-badge&logo=openai&logoColor=white"/>
+
+</p>
+
+### ☁️ Cloud, MLOps & Development Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+
+<img src="https://img.shields.io/badge/MLOps-025E8C?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+</p>
+
+---
+
+## ⚡ My Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,sklearn,pytorch,aws,docker,git,github,vscode&perline=9"/>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="165"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+## 🧠 AI/ML Learning Journey
+
+```text
+Artificial Intelligence
+│
+├── Machine Learning
+│   ├── Supervised Learning
+│   ├── Unsupervised Learning
+│   ├── Feature Engineering
+│   ├── Model Training
+│   └── Model Evaluation
+│
+├── Deep Learning
+│   ├── Neural Networks
+│   ├── CNN
+│   ├── RNN
+│   ├── LSTM
+│   └── Transformers
+│
+├── Data Science
+│   ├── Data Cleaning
+│   ├── Data Analysis
+│   ├── Data Visualization
+│   └── Statistical Analysis
+│
+└── MLOps
+    ├── Model Deployment
+    ├── Docker
+    ├── AWS Cloud
+    └── ML Pipelines
+```
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Resume Analyzer
+
+An AI-powered application designed to analyze resumes and provide meaningful insights using Natural Language Processing and Machine Learning.
+
+**Tech Stack:** Python • Machine Learning • NLP • Data Analysis
+
+🔗 **Project:** Add your repository link here
+
+---
+
+### 🌸 Iris Species Classification
+
+A Machine Learning classification project that predicts Iris flower species using supervised learning algorithms.
+
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn
+
+🔗 **Project:** Add your repository link here
+
+---
+
+### 📊 Smart Superstore Dashboard
+
+A data analytics project focused on analyzing sales, profit, customer behavior, and business performance.
+
+**Tech Stack:** Python • SQL • Data Analysis • Data Visualization
+
+🔗 **Project:** Add your repository link here
+
+---
+
+## 📚 Currently Learning
+
+<table>
+<tr>
+<td>🤖</td>
+<td><b>Machine Learning</b></td>
+<td>Advanced Algorithms & Model Optimization</td>
+</tr>
+
+<tr>
+<td>🧠</td>
+<td><b>Deep Learning</b></td>
+<td>Neural Networks & Modern Architectures</td>
+</tr>
+
+<tr>
+<td>🔥</td>
+<td><b>PyTorch</b></td>
+<td>Deep Learning Model Development</td>
+</tr>
+
+<tr>
+<td>☁️</td>
+<td><b>AWS Cloud</b></td>
+<td>Cloud Deployment & AI Services</td>
+</tr>
+
+<tr>
+<td>⚙️</td>
+<td><b>MLOps</b></td>
+<td>Deployment, Monitoring & ML Pipelines</td>
+</tr>
+</table>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build production-ready AI/ML projects
+* 🧠 Master Machine Learning fundamentals
+* 🔥 Strengthen Deep Learning with PyTorch
+* ☁️ Deploy ML models using AWS
+* ⚙️ Learn end-to-end MLOps workflows
+* 🌍 Contribute to Open Source projects
+* 💼 Start my career as a Data Scientist / AI/ML Engineer
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Turning Data into Insights | Building Intelligent AI Solutions"
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+
+</div>
+```
+
+### ✅ Final Setup
+
+Replace only these:
+
+1. `YOUR_GITHUB_USERNAME` → your GitHub username
+2. `YOUR_LINKEDIN_URL` → your LinkedIn profile URL
+3. Add your actual project repository links
+
+**Important:** GitHub username iste, nenu next message lo **100% personalized final README** — direct copy-paste, placeholders lekunda — ista.
