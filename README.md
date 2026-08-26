@@ -37,10 +37,7 @@ Building data-driven solutions and intelligent AI systems for real-world problem
 
 <div align="center">
 
-<img 
-src="https://github-readme-activity-graph.vercel.app/graph?username=narayanaambati&bg_color=0d1117&color=58a6ff&line=2f81f7&point=58a6ff&area=true&hide_border=true"
-alt="GitHub Contribution Graph"
-/>
+[![Narayana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narayanaambati&theme=github-compact&hide_border=true)](https://github.com/narayanaambati)
 
 </div>
 
