@@ -95,43 +95,33 @@
 </table>
 
 ---
+## 📊 GitHub Statistics
 
-# 📊 GitHub Statistics
-
-<table>
-<tr>
-
-<td width="45%">
+<p align="center">
 
 <img 
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=facc15&text_color=c9d1d9"
-width="100%"
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
+alt="GitHub Stats"
 />
-
-</td>
-
-<td width="27%">
 
 <img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"
-width="100%"
+height="180"
+src="https://github-readme-streak-vercel.vercel.app?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
+alt="GitHub Streak"
 />
 
-</td>
+</p>
 
-<td width="28%">
+<p align="center">
 
-<img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
-width="100%"
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
+alt="Top Languages"
 />
 
-</td>
-
-</tr>
-</table>
-
----
+</p>
 
 # 📌 Pinned Repositories
 
