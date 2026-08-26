@@ -77,34 +77,47 @@ Building data-driven solutions and intelligent AI systems for real-world problem
 </div>
 
 ---
-
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=narayanaambati&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-alt="Narayana's GitHub Stats"
+height="180"
+src="https://github-readme-streak-stats.herokuapp.com?user=narayanaambati&theme=github-dark-blue&hide_border=true"
+alt="Narayana Reddy Ambati's GitHub Streak"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=narayanaambati&theme=github_dark"
+alt="GitHub Statistics"
 />
 
 <img
-height="170"
-src="https://streak-stats.demolab.com?user=narayanaambati&theme=github-dark-blue&hide_border=true"
-alt="Narayana's GitHub Streak"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanaambati&layout=compact&theme=github_dark&hide_border=true"
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=narayanaambati&theme=github_dark"
 alt="Most Used Languages"
 />
 
-</p>
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narayanaambati&theme=github_dark"
+alt="GitHub Contribution Graph"
+/>
+
+</div>
+
+
+
 
 ---
 
