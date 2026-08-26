@@ -1,22 +1,22 @@
 <!-- ========================================================= -->
-<!-- NARAYANA REDDY AMBATI | DATA SCIENCE & AI/ML PROFILE -->
+<!--      NARAYANA REDDY AMBATI | GITHUB PROFILE README       -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# Hi 👋, I'm <span style="color:#58a6ff">Narayana Reddy Ambati</span>
+# Hi 👋, I'm Narayana Reddy Ambati
 
 ### < Data Science & AI/ML Enthusiast />
 
-<br>
+<p>
+Building data-driven solutions and intelligent AI systems for real-world problems.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=https://github.com/narayanaambati/E&label=Profile%20Views&color=58a6ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=narayanaambati&label=Profile%20Views&color=58a6ff&style=flat-square" />
 
-<a href="https://github.com/https://github.com/narayanaambati/">
-<img src="https://img.shields.io/github/followers/https://github.com/narayanaambati/?label=Followers&style=flat-square&color=238636&labelColor=30363d" />
-</a>
+<img src="https://img.shields.io/github/followers/narayanaambati?label=Followers&style=flat-square&color=238636&labelColor=30363d" />
 
-<a href="https://github.com/https://github.com/narayanaambati/?tab=repositories">
+<a href="https://github.com/narayanaambati?tab=repositories">
 <img src="https://img.shields.io/badge/Open%20Source-Projects-f97316?style=flat-square" />
 </a>
 
@@ -26,89 +26,72 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently learning **Deep Learning, PyTorch, MLOps and AWS**
-- 💻 I'm working on **Data Science & AI/ML Projects**
-- 📊 I love solving real-world problems using **Machine Learning and Data Analysis**
+- 🔭 Currently learning **Deep Learning, PyTorch, MLOps and AWS**
+- 💻 Building **Data Science & AI/ML Projects**
+- 📊 Passionate about solving real-world problems using **Machine Learning and Data Analysis**
 - 🌱 **2026 Goal:** Build impactful AI solutions and contribute to Open Source
-- 📫 How to reach me: **Connect with me on LinkedIn or Email**
+- 🚀 Career Focus: **Data Science | Machine Learning | Artificial Intelligence**
 
-<br>
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/narayanaambati">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" />
+</a>
+
+</p>
+
+---
+
+## 💻 Languages & Tools
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true&custom_title=My%20GitHub%20Contribution%20Graph"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,sklearn,pytorch,aws,docker,git,github,vscode&perline=9" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
 
 </div>
 
 ---
 
-<table>
-<tr>
-
-<td width="45%" valign="top">
-
-## 🤝 Connect with me
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://skillicons.dev/icons?i=github" width="42"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter" width="42"/>
-</a>
-&nbsp;&nbsp;
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="42"/>
-</a>
-
-</td>
-
-<td width="55%" valign="top">
-
-## 💻 Languages & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python" width="42"/>
-<img src="https://skillicons.dev/icons?i=mysql" width="42"/>
-<img src="https://skillicons.dev/icons?i=sklearn" width="42"/>
-<img src="https://skillicons.dev/icons?i=pytorch" width="42"/>
-<img src="https://skillicons.dev/icons?i=aws" width="42"/>
-<img src="https://skillicons.dev/icons?i=docker" width="42"/>
-<img src="https://skillicons.dev/icons?i=git" width="42"/>
-<img src="https://skillicons.dev/icons?i=github" width="42"/>
-
-</p>
-
-</td>
-
-</tr>
-</table>
-
----
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img 
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800"
-alt="GitHub Stats"
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=narayanaambati&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+alt="Narayana's GitHub Stats"
 />
 
-<img 
-height="180"
-src="https://github-readme-streak-vercel.vercel.app?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true"
-alt="GitHub Streak"
+<img
+height="170"
+src="https://streak-stats.demolab.com?user=narayanaambati&theme=github-dark-blue&hide_border=true"
+alt="Narayana's GitHub Streak"
 />
 
 </p>
@@ -116,44 +99,49 @@ alt="GitHub Streak"
 <p align="center">
 
 <img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800"
-alt="Top Languages"
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayanaambati&layout=compact&theme=github_dark&hide_border=true"
+alt="Most Used Languages"
 />
 
 </p>
 
-# 📌 Pinned Repositories
+---
+
+# 📌 Featured Projects
 
 <table>
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 AI Resume Analyzer
+### 🤖 Resume Analyzer
 
-AI-powered tool that analyzes resumes and provides meaningful insights using Natural Language Processing and Machine Learning.
+AI-powered Resume Analyzer built using modern AI technologies.
 
-**Tech Stack**
+Features include:
 
-🐍 Python &nbsp; 🤖 Machine Learning &nbsp; 🧠 NLP
+- ATS Score Analysis
+- Resume Analysis
+- Job Description Matching
+- Candidate Insights
 
-⭐ [View Repository](YOUR_AI_RESUME_ANALYZER_LINK)
+**Tech Stack:** Python • AI • NLP • Streamlit
+
+⭐ [View Repository](https://github.com/narayanaambati/Resume-Analyzer)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌸 Iris Species Classification
 
-Machine Learning project that predicts Iris flower species using supervised learning algorithms.
+Machine Learning project that predicts Iris flower species using classification algorithms.
 
-**Tech Stack**
+**Tech Stack:** Python • Pandas • NumPy • Scikit-learn • Random Forest
 
-🐍 Python &nbsp; 📊 Pandas &nbsp; 🤖 Scikit-learn
-
-⭐ [View Repository](YOUR_IRIS_PROJECT_LINK)
+⭐ [View Repository](https://github.com/narayanaambati/iris-species-classification)
 
 </td>
 
@@ -161,31 +149,60 @@ Machine Learning project that predicts Iris flower species using supervised lear
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Smart Superstore Dashboard
+### 📉 Customer Churn Analysis
 
-Data analytics and visualization project focused on sales, profit and business insights.
+Machine Learning project focused on predicting customer churn and analyzing customer behavior.
 
-**Tech Stack**
+**Tech Stack:** Python • Pandas • Machine Learning • Random Forest
 
-🐍 Python &nbsp; 🗄️ SQL &nbsp; 📈 Data Visualization
-
-⭐ [View Repository](YOUR_SUPERSTORE_PROJECT_LINK)
+⭐ [View Repository](https://github.com/narayanaambati/customer-churn-analysis)
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏠 House Price Prediction
+### 🎬 Movie Recommendation System
 
-Machine Learning regression project for predicting house prices using data-driven models.
+Python-powered recommendation system that provides personalized movie suggestions.
 
-**Tech Stack**
+**Tech Stack:** Python • Machine Learning • Recommendation Systems
 
-🐍 Python &nbsp; 🤖 Machine Learning &nbsp; 📊 Scikit-learn
+⭐ [View Repository](https://github.com/narayanaambati/movie-recommendation-system)
 
-⭐ [View Repository](YOUR_HOUSE_PRICE_PROJECT_LINK)
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🛒 Grocery Store Management
+
+Database project designed using MySQL for managing grocery store operations.
+
+**Tech Stack:** MySQL • Database Design • SQL Queries
+
+⭐ [View Repository](https://github.com/narayanaambati/grocery-store-management)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 More Projects
+
+Explore more of my Data Science, AI/ML and Python projects.
+
+**Focus Areas:**
+
+- Machine Learning
+- Artificial Intelligence
+- Data Analysis
+- Python Development
+
+⭐ [View All Repositories](https://github.com/narayanaambati?tab=repositories)
 
 </td>
 
@@ -202,27 +219,31 @@ Machine Learning regression project for predicting house prices using data-drive
 - 📊 Passionate about Data Analysis & Visualization
 - 🧠 Learning Deep Learning with PyTorch
 - ☁️ Exploring AWS Cloud & MLOps
-- 🚀 Focused on production-ready AI solutions
+- 🚀 Focused on building practical AI solutions
 
 ---
 
 ## 🎯 Current Learning Journey
 
 ```text
-                 Artificial Intelligence
-                          │
-          ┌───────────────┴───────────────┐
-          │                               │
-    Data Science                    Machine Learning
-          │                               │
-   ┌──────┼──────┐                 ┌──────┼──────┐
-   │      │      │                 │      │      │
- Python  SQL   EDA            ML Models  Deep Learning
-                                           │
-                                      ┌────┴────┐
-                                      │         │
-                                   PyTorch    MLOps
-                                                │
-                                           AWS Cloud
-                                                │
-                                         AI Deployment
+Artificial Intelligence
+        │
+        ├── Data Science
+        │     ├── Python
+        │     ├── Pandas & NumPy
+        │     ├── SQL
+        │     └── Data Visualization
+        │
+        ├── Machine Learning
+        │     ├── Supervised Learning
+        │     ├── Unsupervised Learning
+        │     └── Model Evaluation
+        │
+        ├── Deep Learning
+        │     ├── Neural Networks
+        │     └── PyTorch
+        │
+        └── MLOps & Cloud
+              ├── Docker
+              ├── AWS
+              └── Model Deployment
