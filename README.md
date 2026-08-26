@@ -82,10 +82,12 @@ Building data-driven solutions and intelligent AI systems for real-world problem
 <div align="center">
 
 <img
-height="180"
-src="https://github-readme-streak-stats.herokuapp.com?user=narayanaambati&theme=github-dark-blue&hide_border=true"
-alt="Narayana Reddy Ambati's GitHub Streak"
+height="170"
+src="https://streak-stats.demolab.com?user=narayanaambati&theme=github-dark-blue&hide_border=true"
+alt="Narayana's GitHub Streak"
 />
+
+</p>
 
 </div>
 
