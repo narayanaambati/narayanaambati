@@ -3,7 +3,7 @@
 <!-- ========================================================= -->
 
 <div align="center">
-y
+
 # Hi 👋, I'm Narayana Reddy Ambati
 
 ###  Data Science & AI/ML Enthusiast  👨‍💻
