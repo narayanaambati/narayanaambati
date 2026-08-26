@@ -37,23 +37,10 @@ Building data-driven solutions and intelligent AI systems for real-world problem
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/narayanaambati/narayanaambati/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/narayanaambati/narayanaambati/output/github-snake.svg"
-  />
-
-  <img
-    alt="Narayana's GitHub Contribution Grid"
-    src="https://raw.githubusercontent.com/narayanaambati/narayanaambati/output/github-snake-dark.svg"
-  />
-
-</picture>
+<img 
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=narayanaambati&theme=github_dark"
+alt="Narayana Reddy Ambati GitHub Contributions"
+/>
 
 </div>
 
