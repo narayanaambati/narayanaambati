@@ -37,7 +37,23 @@ Building data-driven solutions and intelligent AI systems for real-world problem
 
 <div align="center">
 
-[![Narayana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=narayanaambati&theme=github-compact&hide_border=true)](https://github.com/narayanaambati)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/narayanaambati/narayanaambati/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/narayanaambati/narayanaambati/output/github-snake.svg"
+  />
+
+  <img
+    alt="Narayana's GitHub Contribution Grid"
+    src="https://raw.githubusercontent.com/narayanaambati/narayanaambati/output/github-snake-dark.svg"
+  />
+
+</picture>
 
 </div>
 
