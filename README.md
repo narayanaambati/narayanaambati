@@ -3,10 +3,10 @@
 <!-- ========================================================= -->
 
 <div align="center">
-
+y
 # Hi 👋, I'm Narayana Reddy Ambati
 
-### < Data Science & AI/ML Enthusiast />
+###  Data Science & AI/ML Enthusiast  👨‍💻
 
 <p>
 Building data-driven solutions and intelligent AI systems for real-world problems.
