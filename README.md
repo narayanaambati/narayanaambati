@@ -42,13 +42,11 @@ Building data-driven solutions and intelligent AI systems for real-world problem
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
-&nbsp;&nbsp;
 
 <a href="https://github.com/narayanaambati">
 <img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
 
-&nbsp;&nbsp;
 
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="45" />
