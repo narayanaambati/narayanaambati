@@ -10,13 +10,13 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=58a6ff&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=https://github.com/narayanaambati/E&label=Profile%20Views&color=58a6ff&style=flat-square" />
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=238636&labelColor=30363d" />
+<a href="https://github.com/https://github.com/narayanaambati/">
+<img src="https://img.shields.io/github/followers/https://github.com/narayanaambati/?label=Followers&style=flat-square&color=238636&labelColor=30363d" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<a href="https://github.com/https://github.com/narayanaambati/?tab=repositories">
 <img src="https://img.shields.io/badge/Open%20Source-Projects-f97316?style=flat-square" />
 </a>
 
