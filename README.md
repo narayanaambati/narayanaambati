@@ -1,190 +1,238 @@
-# Recruiter-Focused GitHub Profile README
-
-````md
 <!-- ========================================================= -->
-<!--       NARAYANA REDDY AMBATI | GITHUB PROFILE README      -->
+<!--        NARAYANA REDDY AMBATI | GITHUB PROFILE README      -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# Hi, I'm Narayana Reddy Ambati 👋
+# Hi 👋, I'm <span style="color:#58a6ff">Narayana Reddy Ambati</span>
 
-### Data Science | Artificial Intelligence | Machine Learning
+### < Data Science & AI/ML Enthusiast />
 
-<p>
-  <b>Building data-driven solutions and intelligent AI systems for real-world problems.</b>
-</p>
+<br>
 
-<p>
-  Python &nbsp;•&nbsp;
-  Data Science &nbsp;•&nbsp;
-  Machine Learning &nbsp;•&nbsp;
-  Deep Learning &nbsp;•&nbsp;
-  AWS &nbsp;•&nbsp;
-  MLOps
-</p>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=2f81f7&style=for-the-badge" />
 
-<p>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=238636&labelColor=30363d" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
+<img src="https://img.shields.io/badge/Open%20Source-Projects-orange?style=for-the-badge&labelColor=30363d" />
+</a>
+
+<br><br>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I am an aspiring **Data Scientist and AI/ML Engineer** with a strong interest in building intelligent, data-driven solutions. My technical foundation includes **Python, SQL, data analysis, machine learning, deep learning, and artificial intelligence**.
+🔭 I'm currently learning **Deep Learning, PyTorch, MLOps and AWS**
 
-I enjoy working with real-world datasets, extracting meaningful insights, building predictive models, and continuously improving my skills in modern AI technologies.
+💻 I'm working on **Data Science & AI/ML Projects**
 
-**Currently focusing on:** Deep Learning • PyTorch • AWS • MLOps • Production-ready ML systems
+📊 I love solving real-world problems using **Machine Learning and Data Analysis**
 
----
+🌱 **2026 Goal:** Build impactful AI solutions and contribute to Open Source
 
-## 🚀 What I Work With
-
-| Area | Skills |
-|---|---|
-| 🐍 **Programming** | Python, SQL, MySQL |
-| 📊 **Data Science** | Pandas, NumPy, Data Cleaning, EDA |
-| 📈 **Visualization** | Matplotlib, Seaborn |
-| 🤖 **Machine Learning** | Scikit-learn, Supervised Learning, Unsupervised Learning |
-| 🧠 **Deep Learning** | PyTorch, Neural Networks |
-| 🤖 **Artificial Intelligence** | AI Fundamentals, Intelligent Systems |
-| ☁️ **Cloud** | AWS |
-| ⚙️ **MLOps** | Model Deployment, ML Workflows |
-| 🛠️ **Tools** | Git, GitHub, Docker, VS Code |
+📫 How to reach me: **Connect with me on LinkedIn or email me**
 
 ---
-
-## 🛠️ Technical Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,sklearn,pytorch,aws,docker,git,github,vscode&perline=9" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-4C72B0?style=for-the-badge"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## ⭐ Featured Projects
+# 🤝 Connect with me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Languages & Tools
+
+<div align="center">
+
+### 🐍 Programming & Database
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+<br><br>
+
+### 📊 Data Science
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+
+<br><br>
+
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch" />
+
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br><br>
+
+### ☁️ Cloud & MLOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode" />
+
+<img src="https://img.shields.io/badge/MLOps-025E8C?style=for-the-badge&logo=mlflow&logoColor=white"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=false&title_color=58a6ff&icon_color=58a6ff"/>
+
+<img width="49%"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=false"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="45%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=false"/>
+
+</div>
+
+---
+
+# 📌 Pinned Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🤖 AI Resume Analyzer
 
-An AI-powered project designed to analyze resumes and generate meaningful insights using data processing, machine learning, and Natural Language Processing.
+AI-powered application that analyzes resumes and provides meaningful insights using Machine Learning and NLP.
 
-**Tech:** Python • Machine Learning • NLP
+**Tech Stack**
 
-🔗 **Repository:** `Add your project link`
+🐍 Python • 🤖 Machine Learning • 🧠 NLP
 
----
+⭐ [View Project](YOUR_PROJECT_LINK)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 🌸 Iris Species Classification
 
-A machine learning classification project that predicts Iris flower species using supervised learning algorithms and model evaluation techniques.
+Machine Learning project that classifies Iris flower species using supervised learning algorithms.
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn
+**Tech Stack**
 
-🔗 **Repository:** `Add your project link`
+🐍 Python • Pandas • NumPy • Scikit-learn
 
----
+⭐ [View Project](YOUR_PROJECT_LINK)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 📊 Smart Superstore Dashboard
 
-A data analytics project focused on analyzing sales, profit, customer behavior, and business performance to generate actionable insights.
+Data analytics project focused on sales, profit, customer behavior and business insights.
 
-**Tech:** Python • SQL • Data Analysis • Data Visualization
+**Tech Stack**
 
-🔗 **Repository:** `Add your project link`
+🐍 Python • SQL • Data Analysis • Visualization
+
+⭐ [View Project](YOUR_PROJECT_LINK)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏠 House Price Prediction
+
+Machine Learning project that predicts house prices using regression algorithms.
+
+**Tech Stack**
+
+🐍 Python • Machine Learning • Scikit-learn
+
+⭐ [View Project](YOUR_PROJECT_LINK)
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🎯 Current Learning Focus
+# 🏆 Achievements & Highlights
+
+- 🌟 Data Science & AI/ML Enthusiast
+- 🤖 Building real-world Machine Learning projects
+- 📊 Passionate about Data Analysis & Visualization
+- 🧠 Continuously learning Deep Learning & AI
+- ☁️ Exploring AWS Cloud & MLOps
+- 🚀 Focused on building production-ready AI solutions
+
+---
+
+# 🎯 Current Focus
 
 ```text
-Machine Learning
-      ↓
-Deep Learning
-      ↓
-PyTorch
-      ↓
-Model Deployment
-      ↓
-AWS Cloud
-      ↓
-MLOps
-      ↓
-Production AI Systems
-````
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="165"
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true"
-/>
-
-</div>
-
----
-
-## 🎯 Professional Goal
-
-My goal is to build a career in **Data Science and Artificial Intelligence**, where I can apply my skills in **data analysis, machine learning, deep learning, and AI** to solve meaningful real-world problems and contribute to impactful technology solutions.
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Turning Data into Insights | Building Intelligent AI Solutions
-
-⭐ Thanks for visiting my GitHub profile!
-
-</div>
-```
+Data Science
+     │
+     ├── Data Analysis
+     ├── Data Visualization
+     └── Machine Learning
+              │
+              ├── Deep Learning
+              ├── PyTorch
+              └── AI Applications
+                       │
+                       ├── AWS
+                       ├── Deployment
+                       └── MLOps
